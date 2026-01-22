@@ -59,7 +59,7 @@ El proyecto sigue un patrón de diseño **DAO (Data Access Object)** para separa
 ### 1. Clonar el repositorio
 
 ```bash
-git clone <url-del-repo>
+git clone https://github.com/RobertoFavela/Sonico-Lirio
 cd RobertoFavela-Sonico-Lirio
 
 ```
